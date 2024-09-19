@@ -1,0 +1,13 @@
+.div-login-button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: fixed;
+    right: 20px;
+    margin-top: 20px;
+}
+
+.div-login-button h3 {
+    margin-right: 15px;
+    margin-top: 15px;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './LoginScreen.css';
 
 function LoginScreen() {
@@ -10,7 +11,7 @@ function LoginScreen() {
 
             <div className='div-register-button'>
                 <h3>Não possui conta?</h3>
-                <button>Registrar</button>
+                <button><Link to="/register"  className='button-repository-link'>Registrar</Link></button>
             </div>
             <h1>Simple Chat</h1>
 

@@ -43,6 +43,11 @@
     margin-top: 20px;
 }
 
+.button-repository-link {
+    text-decoration: none;
+    color:  rgb(255, 255, 255);
+}
+
 .div-register-button h3 {
     margin-right: 15px;
     margin-top: 15px;
